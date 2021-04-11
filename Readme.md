@@ -26,6 +26,7 @@ Webpack configs for:
 
 ### Alias
 
+- `@src:` "src/
 - `@component:` "src/components"
 - `@assets:` "src/assets"
 - `@img:` "src/assets/images"
