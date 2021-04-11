@@ -1,0 +1,14 @@
+{
+    "source": "src/index.js",
+    "output": {
+        "filename": "[contenthash:12].bundle.js",
+        "folder": "build"
+    },
+    "folders": {
+        "css":  "styles/",
+        "js":   "js/",
+        "assets": "assets/",
+        "images": "assets/images/",
+        "fonts": "assets/fonts/"
+    }
+}
