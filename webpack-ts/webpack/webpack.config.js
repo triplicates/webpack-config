@@ -25,6 +25,7 @@ let webpackConfig =  {
     resolve: {
       extensions: ['.ts', '.tsx', '.js'],
       alias: {
+        "@src":  path.resolve(__dirname, "..", "src/"),
         "@components":  path.resolve(__dirname, "..", "src/components"),
         "@styles":      path.resolve(__dirname, ".." , "src", folders.css),
         "@assets":      path.resolve(__dirname, ".." , "src", folders.assets),
