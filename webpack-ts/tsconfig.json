@@ -4,6 +4,10 @@
     "module": "es6",
     "jsx": "react",
     "noImplicitAny": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "src/",
+    "paths": {
+    	"@components/*": ["components/*"]
+    }
   }
 }
