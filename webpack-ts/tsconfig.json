@@ -8,6 +8,7 @@
     "allowSyntheticDefaultImports": true,
     "baseUrl": "src/",
     "paths": {
+      "@src/*": ["*"],
     	"@components/*": ["components/*"]
     }
   }
