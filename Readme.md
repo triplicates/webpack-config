@@ -41,5 +41,5 @@ Webpack configs for:
 
 1. In project and webpack folders run `npm init`
 2. In `webpack.config.json` change configuration for yourself
-3. Run `npm start` in dev mode
+3. Run `npm start` in development mode
 
